@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<delivery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="other.xsd">
+    
+    <customer id="K123">
+		<name>toto</name>        
+	</customer>
+    <order>
+        <customerRef>K123</customerRef>
+    </order>
+    
+</delivery>
